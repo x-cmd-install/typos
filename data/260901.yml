@@ -1,0 +1,64 @@
+about:
+  description: Source code spell checker
+  license: Apache-2.0
+  homepage: 
+  head: 92ed824
+  archived: false
+  latestVersion: v1.50.0
+  collectedAt: 2026-09-01T02:39:26Z
+timeline:
+  created: 2019-04-16
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-28
+popularity:
+  star: 4117
+  watcher: 7
+  fork: 185
+  release: 298
+  contributor: 84
+  pullRequest: 279
+  issue: 580
+language:
+  Rust: 20475897
+  Shell: 25060
+  Python: 343
+  Dockerfile: 275
+  Julia: 141
+  C++: 82
+  BitBake: 76
+  PHP: 48
+  RenderScript: 7
+totalLine: 20501929
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 8
+    openPR: 6
+    closedIssue: 5
+    openIssue: 3
+    commit: 11
+  last90d:
+    since: 2026-06-03
+    release: 6
+    mergedPR: 16
+    openPR: 7
+    closedIssue: 10
+    openIssue: 5
+    commit: 30
+  last180d:
+    since: 2026-03-05
+    release: 14
+    mergedPR: 34
+    openPR: 9
+    closedIssue: 29
+    openIssue: 11
+    commit: 75
+  last360d:
+    since: 2025-09-06
+    release: 38
+    mergedPR: 94
+    openPR: 14
+    closedIssue: 72
+    openIssue: 29
+    commit: 263
