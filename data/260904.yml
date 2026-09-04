@@ -7,7 +7,7 @@ about:
   head: d43b6c0
   archived: false
   latestVersion: v1.50.1
-  collectedAt: 2026-09-04T19:18:59Z
+  collectedAt: 2026-09-04T21:14:37Z
 timeline:
   created: 2019-04-16
   lastCommit: 2026-09-01
@@ -88,6 +88,84 @@ total:
   openIssue: 129
   commit: 2898
 ---
+path: /home/runner/.x-repo/github.com/crate-ci/typos
+collectedAt: 2026-09-04T21:14:43Z
+loc:
+  Rust:
+    code: 10477
+    comments: 146
+    blanks: 1008
+    files: 43
+  Toml:
+    code: 1223
+    comments: 169
+    blanks: 85
+    files: 71
+  Sh:
+    code: 972
+    comments: 49
+    blanks: 164
+    files: 16
+  Json:
+    code: 325
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 41
+    comments: 0
+    blanks: 8
+    files: 1
+  Python:
+    code: 14
+    comments: 0
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 2
+    files: 1
+  Ini:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Cpp:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Php:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Julia:
+    code: 2
+    comments: 3
+    blanks: 1
+    files: 1
+  Bitbake:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1956
+    blanks: 1126
+    files: 18
+  Text:
+    code: 0
+    comments: 359
+    blanks: 4
+    files: 7
+total:
+  code: 13192
+  comments: 2782
+  blanks: 2430
+  files: 165
 ---
 date: "2026-08-24"
 repo:
