@@ -5,13 +5,13 @@ about:
   head: d43b6c0
   archived: false
   latestVersion: "v1.50.1"
-  collectedAt: 2026-09-07T05:08:34Z
+  collectedAt: 2026-09-07T19:17:15Z
 timeline:
   created: 2019-04-16
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 4124
+  star: 4126
   watcher: 7
   fork: 185
   release: 299
@@ -87,7 +87,7 @@ total:
   commit: 2898
 ---
 path: /home/runner/.x-repo/github.com/crate-ci/typos
-collectedAt: 2026-09-07T05:08:49Z
+collectedAt: 2026-09-07T19:17:35Z
 loc:
   Rust:
     code: 10477
@@ -343,7 +343,7 @@ checks:
       - 'Info: all commits (20) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:08:50+00:00
+  collectedAt: 2026-09-07T19:17:37+00:00
   platform:
     darwin/arm64:
       name:  typos-v1.50.1-aarch64-apple-darwin.tar.gz
