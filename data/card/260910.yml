@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.50.1"
   latestRelease: "v1.50.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:41:59Z
+  collectedAt: 2026-09-10T23:20:40Z
 timeline:
   created: 2019-04-16
   lastCommit: 2026-09-01
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 4125
   watcher: 7
-  fork: 185
+  fork: 186
   release: 299
   contributor: 85
   pullRequest: 999
@@ -91,7 +91,7 @@ total:
   commit: 2898
 ---
 path: /home/runner/.x-repo/github.com/crate-ci/typos
-collectedAt: 2026-09-10T20:42:16Z
+collectedAt: 2026-09-10T23:20:54Z
 loc:
   Rust:
     code: 10477
