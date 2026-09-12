@@ -1,4 +1,26 @@
-- repo: arch
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.50.1
+  origversion: 1.50.1-1
+  status: newest
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.50.1
+  origversion: 1.50.1-1
+  status: newest
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_testing
   subrepo: extra
   srcname: typos
   binname: typos
@@ -74,6 +96,19 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT OR Apache-2.0
+- repo: nix_stable_25_11
+  srcname: typos
+  visiblename: typos
+  version: 1.39.2
+  origversion: null
+  status: outdated
+  summary: Source code spell checker
+  maintainers:
+    - megoettlinger@gmail.com
+    - contact@christophjabs.info
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: typos
@@ -141,6 +176,17 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
+- repo: arch
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.50.1
+  origversion: 1.50.1-1
+  status: newest
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
 - repo: aur
   srcname: typos-git
   binname: typos-git
@@ -173,39 +219,6 @@
     - sunpoet@freebsd.org
   categories:
     - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.50.1
-  origversion: 1.50.1-1
-  status: newest
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.50.1
-  origversion: 1.50.1-1
-  status: newest
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.50.1
-  origversion: 1.50.1-1
-  status: newest
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
 - repo: nix_stable_24_05
   srcname: typos
   visiblename: typos
@@ -242,19 +255,6 @@
   maintainers:
     - figsoda@pm.me
     - megoettlinger@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_25_11
-  srcname: typos
-  visiblename: typos
-  version: 1.39.2
-  origversion: null
-  status: outdated
-  summary: Source code spell checker
-  maintainers:
-    - megoettlinger@gmail.com
-    - contact@christophjabs.info
   licenses:
     - Apache-2.0
     - MIT
@@ -307,9 +307,9 @@
 - repo: slackbuilds
   srcname: development/typos
   visiblename: development/typos
-  version: 1.49.0
+  version: 1.50.1
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - andrew.clemons@gmail.com
   categories:
