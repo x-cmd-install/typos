@@ -14,11 +14,11 @@ x install typos
 
 ## Code insight
 
-Total: **13,078** lines of code across **132** files in the top 5 languages.
+Total: **13,140** lines of code across **133** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,477 | 146 | 1,008 | 43 |
+| Rust | 10,539 | 150 | 1,016 | 44 |
 | Toml | 1,223 | 169 | 85 | 71 |
 | Sh | 972 | 49 | 164 | 16 |
 | Json | 325 | 0 | 0 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.50.1` (2026-09-01)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-09-12
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 4,126 · **Forks**: 186 · **Open issues**: 580 · **Contributors**: 85
+- **Stars**: 4,130 · **Forks**: 186 · **Open issues**: 580 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 299 · **Merged PRs**: 722 · **Open PRs**: 26 · **Closed issues**: 451 · **Open issues**: 129 · **Commits**: 2898
+- **Releases**: 299 · **Merged PRs**: 723 · **Open PRs**: 24 · **Closed issues**: 452 · **Open issues**: 128 · **Commits**: 2901
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 6 | 4 | 2 | 1 | 15 |
-| last60d | 2026-07-14 | 4 | 12 | 5 | 6 | 3 | 25 |
-| 90d | 2026-06-14 | 5 | 17 | 6 | 11 | 3 | 35 |
-| last180d | 2026-03-16 | 15 | 36 | 7 | 29 | 10 | 79 |
-| 360d | 2025-09-17 | 39 | 96 | 13 | 73 | 28 | 267 |
-| last720d | 2024-09-22 | 87 | 203 | 19 | 159 | 58 | 793 |
+| 30d | 2026-08-14 | 3 | 7 | 3 | 2 | 1 | 16 |
+| last60d | 2026-07-15 | 4 | 13 | 4 | 6 | 3 | 27 |
+| 90d | 2026-06-15 | 5 | 18 | 4 | 11 | 3 | 37 |
+| last180d | 2026-03-17 | 15 | 36 | 5 | 29 | 10 | 80 |
+| 360d | 2025-09-18 | 39 | 96 | 11 | 74 | 27 | 265 |
+| last720d | 2024-09-23 | 87 | 204 | 17 | 160 | 57 | 796 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:08:37Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:30:16Z._
