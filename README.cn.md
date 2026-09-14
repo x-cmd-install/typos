@@ -47,7 +47,7 @@ x install typos
 
 ## 流行度
 
-- **Star**: 4,130 · **Fork**: 186 · **开放 issue**: 580 · **贡献者**: 87
+- **Star**: 4,132 · **Fork**: 186 · **开放 issue**: 580 · **贡献者**: 87
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install typos
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 7 | 3 | 2 | 1 | 16 |
-| last60d | 2026-07-15 | 4 | 13 | 4 | 6 | 3 | 27 |
-| 90d | 2026-06-15 | 5 | 18 | 4 | 11 | 3 | 37 |
-| last180d | 2026-03-17 | 15 | 36 | 5 | 29 | 10 | 80 |
-| 360d | 2025-09-18 | 39 | 96 | 11 | 74 | 27 | 265 |
-| last720d | 2024-09-23 | 87 | 204 | 17 | 160 | 57 | 796 |
+| 30d | 2026-08-15 | 3 | 7 | 3 | 2 | 1 | 16 |
+| last60d | 2026-07-16 | 4 | 13 | 4 | 6 | 3 | 27 |
+| 90d | 2026-06-16 | 5 | 18 | 4 | 11 | 3 | 37 |
+| last180d | 2026-03-18 | 15 | 36 | 5 | 29 | 10 | 80 |
+| 360d | 2025-09-19 | 39 | 96 | 11 | 73 | 27 | 265 |
+| last720d | 2024-09-24 | 87 | 204 | 17 | 160 | 57 | 796 |
 
 ## Release 资产
 
@@ -74,17 +74,6 @@ x install typos
 | [typos-v1.50.1-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.50.1/typos-v1.50.1-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
 | [typos-v1.50.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.1/typos-v1.50.1-x86_64-unknown-linux-musl.tar.gz) | 7.8 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/typos) 上共有 **32** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.50.1` | ✅ latest |
-| Nix unstable | `1.50.0` | ⚠️ outdated |
-| Void | `1.48.0` | ⚠️ outdated |
-| Alpine edge | `1.47.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 typos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `typos` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +83,4 @@ typos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:30:17Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:38:18Z._
