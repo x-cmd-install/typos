@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/20 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.50.1` (2026-09-01)
-- **Last commit**: 2026-09-12
+- **Latest**: `v1.50.2` (2026-09-15)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 5
 
 ## Popularity
@@ -51,28 +51,28 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 299 · **Merged PRs**: 723 · **Open PRs**: 24 · **Closed issues**: 452 · **Open issues**: 128 · **Commits**: 2901
+- **Releases**: 300 · **Merged PRs**: 723 · **Open PRs**: 24 · **Closed issues**: 452 · **Open issues**: 128 · **Commits**: 2903
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 3 | 7 | 2 | 2 | 1 | 16 |
-| last60d | 2026-07-17 | 4 | 13 | 4 | 6 | 3 | 27 |
-| 90d | 2026-06-17 | 5 | 18 | 4 | 11 | 3 | 37 |
-| last180d | 2026-03-19 | 15 | 36 | 5 | 29 | 9 | 80 |
-| 360d | 2025-09-20 | 39 | 96 | 11 | 73 | 27 | 265 |
-| last720d | 2024-09-25 | 87 | 204 | 17 | 160 | 57 | 796 |
+| 30d | 2026-08-17 | 4 | 7 | 2 | 2 | 1 | 18 |
+| last60d | 2026-07-18 | 5 | 13 | 4 | 6 | 3 | 29 |
+| 90d | 2026-06-18 | 6 | 18 | 4 | 10 | 3 | 39 |
+| last180d | 2026-03-20 | 16 | 36 | 5 | 29 | 9 | 82 |
+| 360d | 2025-09-21 | 40 | 96 | 11 | 73 | 27 | 267 |
+| last720d | 2024-09-26 | 88 | 204 | 17 | 160 | 57 | 798 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [typos-v1.50.1-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.1/typos-v1.50.1-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [typos-v1.50.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.1/typos-v1.50.1-aarch64-unknown-linux-musl.tar.gz) | 6.8 MiB | `native/linux/arm64/musl` |
-| [typos-v1.50.1-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.1/typos-v1.50.1-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
-| [typos-v1.50.1-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.50.1/typos-v1.50.1-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [typos-v1.50.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.1/typos-v1.50.1-x86_64-unknown-linux-musl.tar.gz) | 7.8 MiB | `native/linux/x64/musl` |
+| [typos-v1.50.2-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.2/typos-v1.50.2-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [typos-v1.50.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.2/typos-v1.50.2-aarch64-unknown-linux-musl.tar.gz) | 6.8 MiB | `native/linux/arm64/musl` |
+| [typos-v1.50.2-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.2/typos-v1.50.2-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [typos-v1.50.2-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.50.2/typos-v1.50.2-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [typos-v1.50.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.50.2/typos-v1.50.2-x86_64-unknown-linux-musl.tar.gz) | 7.8 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:35:46Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:37:18Z._
