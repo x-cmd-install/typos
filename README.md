@@ -4,7 +4,7 @@
 
 Source code spell checker
 
-[![x-cmd/install — typos Code Quality Monitoring Repo Card](https://repo.x-cmd.io/typos.svg)](https://x-cmd.com/install/typos)
+[![x-cmd/install — typos Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/typos.svg)](https://x-cmd.com/install/typos)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **13,153** lines of code across **133** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,146 · **Forks**: 187 · **Open issues**: 580 · **Contributors**: 89
+- **Stars**: 4,150 · **Forks**: 188 · **Open issues**: 580 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 300 · **Merged PRs**: 726 · **Open PRs**: 25 · **Closed issues**: 454 · **Open issues**: 126 · **Commits**: 3024
+- **Releases**: 300 · **Merged PRs**: 726 · **Open PRs**: 26 · **Closed issues**: 454 · **Open issues**: 126 · **Commits**: 3024
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 9 | 3 | 2 | 1 | 0 |
-| last60d | 2026-07-24 | 5 | 16 | 5 | 6 | 3 | 0 |
-| 90d | 2026-06-24 | 6 | 21 | 5 | 10 | 3 | 0 |
-| last180d | 2026-03-26 | 16 | 39 | 6 | 27 | 8 | 0 |
-| 360d | 2025-09-27 | 39 | 98 | 12 | 71 | 26 | 0 |
-| last720d | 2024-10-02 | 87 | 202 | 18 | 159 | 53 | 905 |
+| 30d | 2026-08-24 | 4 | 9 | 3 | 2 | 1 | 21 |
+| last60d | 2026-07-25 | 5 | 16 | 6 | 6 | 3 | 55 |
+| 90d | 2026-06-25 | 6 | 21 | 6 | 10 | 3 | 77 |
+| last180d | 2026-03-27 | 16 | 39 | 7 | 27 | 8 | 153 |
+| 360d | 2025-09-28 | 39 | 98 | 13 | 71 | 26 | 337 |
+| last720d | 2024-10-03 | 87 | 202 | 19 | 157 | 53 | 905 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:40:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:31:36Z._
