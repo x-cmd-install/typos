@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 3 | 8 | 2 | 0 | 0 | 12 |
-| last60d | 2026-07-30 | 6 | 18 | 5 | 6 | 2 | 41 |
-| 90d | 2026-06-30 | 7 | 22 | 5 | 8 | 3 | 70 |
-| last180d | 2026-04-01 | 17 | 38 | 6 | 26 | 8 | 143 |
-| 360d | 2025-10-03 | 38 | 94 | 12 | 68 | 26 | 313 |
-| last720d | 2024-10-08 | 87 | 203 | 17 | 157 | 53 | 907 |
+| 30d | 2026-08-30 | 3 | 8 | 1 | 0 | 0 | 12 |
+| last60d | 2026-07-31 | 6 | 18 | 5 | 6 | 2 | 41 |
+| 90d | 2026-07-01 | 6 | 19 | 5 | 8 | 3 | 70 |
+| last180d | 2026-04-02 | 16 | 38 | 6 | 26 | 8 | 143 |
+| 360d | 2025-10-04 | 37 | 94 | 12 | 67 | 26 | 313 |
+| last720d | 2024-10-09 | 87 | 203 | 17 | 157 | 51 | 907 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:50:13Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:14:39Z._
