@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.50.3` (2026-09-25)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-04
 - **Assets in release**: 5
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 301 · **Merged PRs**: 731 · **Open PRs**: 25 · **Closed issues**: 455 · **Open issues**: 127 · **Commits**: 3036
+- **Releases**: 301 · **Merged PRs**: 732 · **Open PRs**: 25 · **Closed issues**: 455 · **Open issues**: 127 · **Commits**: 3037
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 9 | 1 | 0 | 2 | 17 |
-| last60d | 2026-08-05 | 5 | 16 | 4 | 6 | 3 | 43 |
-| 90d | 2026-07-06 | 6 | 22 | 5 | 8 | 4 | 68 |
-| last180d | 2026-04-07 | 16 | 41 | 6 | 26 | 9 | 144 |
-| 360d | 2025-10-09 | 34 | 92 | 12 | 68 | 27 | 318 |
-| last720d | 2024-10-14 | 87 | 206 | 16 | 154 | 52 | 913 |
+| 30d | 2026-09-05 | 2 | 10 | 1 | 0 | 2 | 0 |
+| last60d | 2026-08-06 | 5 | 17 | 4 | 6 | 3 | 0 |
+| 90d | 2026-07-07 | 6 | 23 | 5 | 8 | 4 | 0 |
+| last180d | 2026-04-08 | 16 | 42 | 6 | 26 | 9 | 0 |
+| 360d | 2025-10-10 | 34 | 93 | 12 | 68 | 27 | 0 |
+| last720d | 2024-10-15 | 87 | 207 | 16 | 154 | 52 | 914 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:17:09Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:03:06Z._
