@@ -57,12 +57,12 @@ x install typos
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 6 | 0 | 2 | 2 | 15 |
-| last60d | 2026-08-23 | 7 | 16 | 3 | 5 | 2 | 45 |
-| 90d | 2026-07-24 | 8 | 24 | 4 | 9 | 4 | 73 |
-| last180d | 2026-04-25 | 17 | 42 | 5 | 26 | 6 | 140 |
-| 360d | 2025-10-27 | 36 | 95 | 10 | 67 | 26 | 326 |
-| last720d | 2024-11-01 | 85 | 201 | 15 | 150 | 50 | 893 |
+| 30d | 2026-09-23 | 3 | 6 | 0 | 2 | 2 | 15 |
+| last60d | 2026-08-24 | 7 | 16 | 2 | 5 | 2 | 45 |
+| 90d | 2026-07-25 | 8 | 24 | 4 | 9 | 4 | 73 |
+| last180d | 2026-04-26 | 17 | 42 | 5 | 25 | 6 | 140 |
+| 360d | 2025-10-28 | 36 | 95 | 10 | 67 | 26 | 326 |
+| last720d | 2024-11-02 | 84 | 201 | 15 | 150 | 50 | 884 |
 
 ## Release 资产
 
@@ -75,6 +75,17 @@ x install typos
 | [typos-v1.51.1-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
 | [typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/typos) 上共有 **32** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**24** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.51.1` | ✅ latest |
+| Nix unstable | `1.51.1` | ✅ latest |
+| Void | `1.48.0` | ⚠️ outdated |
+| Alpine edge | `1.47.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 typos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `typos` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +95,4 @@ typos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:11:13Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:19:35Z._
