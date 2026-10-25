@@ -387,9 +387,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.48.0
-  origversion: 1.48.0_1
-  status: outdated
+  version: 1.51.1
+  origversion: 1.51.1_1
+  status: newest
   summary: Source code spell checker
   maintainers:
     - bnyro@tutanota.com
