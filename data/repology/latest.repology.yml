@@ -157,7 +157,7 @@
 - repo: chocolatey
   binname: typos
   visiblename: Typos
-  version: 1.50.1
+  version: 1.50.2
   origversion: null
   status: outdated
   summary: Source code spell checker
