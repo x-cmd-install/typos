@@ -1,3 +1,25 @@
+- repo: arch
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.51.1
+  origversion: 1.51.1-1
+  status: newest
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.50.3
+  origversion: 1.50.3-1
+  status: outdated
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: typos
@@ -22,6 +44,17 @@
   summary: Source code spell checker (documentation)
   maintainers:
     - matthias@ahouansou.cz
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.51.1
+  origversion: 1.51.1-1
+  status: newest
+  summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
 - repo: alpine_3_23
@@ -130,17 +163,6 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
-- repo: arch
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1
-  status: newest
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
 - repo: aur
   srcname: typos-git
   binname: typos-git
@@ -165,8 +187,8 @@
   srcname: textproc/typos
   binname: typos
   visiblename: textproc/typos
-  version: 1.50.2
-  origversion: 1.50.2_1
+  version: 1.50.3
+  origversion: null
   status: outdated
   summary: Source code spell checker
   maintainers:
@@ -181,28 +203,6 @@
   version: 1.50.1
   origversion: 1.50.1-1
   status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.50.3
-  origversion: 1.50.3-1
-  status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1
-  status: newest
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
