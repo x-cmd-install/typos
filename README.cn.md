@@ -41,49 +41,49 @@ x install typos
 
 ## 发布
 
-- **最新版本**: `v1.51.1` (2026-10-06)
-- **最近提交**: 2026-11-01
+- **最新版本**: `v1.52.0` (2026-11-02)
+- **最近提交**: 2026-11-02
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 4,204 · **Fork**: 187 · **开放 issue**: 584 · **贡献者**: 91
+- **Star**: 4,205 · **Fork**: 188 · **开放 issue**: 586 · **贡献者**: 91
 
 ## 累计统计
 
-- **发布数**: 303 · **已合并 PR**: 736 · **开放 PR**: 24 · **已关闭 issue**: 457 · **开放 issue**: 127 · **提交数**: 3049
+- **发布数**: 304 · **已合并 PR**: 737 · **开放 PR**: 25 · **已关闭 issue**: 458 · **开放 issue**: 128 · **提交数**: 3054
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 4 | 0 | 2 | 0 | 2 |
-| last60d | 2026-09-03 | 4 | 13 | 1 | 2 | 2 | 26 |
-| 90d | 2026-08-04 | 7 | 21 | 3 | 8 | 3 | 55 |
-| last180d | 2026-05-06 | 15 | 40 | 5 | 22 | 5 | 126 |
-| 360d | 2025-11-07 | 35 | 91 | 9 | 66 | 26 | 311 |
-| last720d | 2024-11-12 | 81 | 199 | 15 | 148 | 48 | 871 |
+| 30d | 2026-10-04 | 3 | 4 | 1 | 2 | 2 | 6 |
+| last60d | 2026-09-04 | 5 | 14 | 2 | 3 | 3 | 30 |
+| 90d | 2026-08-05 | 8 | 22 | 4 | 9 | 4 | 59 |
+| last180d | 2026-05-07 | 16 | 41 | 6 | 23 | 6 | 130 |
+| 360d | 2025-11-08 | 36 | 92 | 10 | 67 | 27 | 315 |
+| last720d | 2024-11-13 | 82 | 200 | 16 | 149 | 49 | 876 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [typos-v1.51.1-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [typos-v1.51.1-aarch64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-aarch64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/arm64` |
-| [typos-v1.51.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-aarch64-unknown-linux-musl.tar.gz) | 6.9 MiB | `native/linux/arm64/musl` |
-| [typos-v1.51.1-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
-| [typos-v1.51.1-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
+| [typos-v1.52.0-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [typos-v1.52.0-aarch64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-aarch64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/arm64` |
+| [typos-v1.52.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-aarch64-unknown-linux-musl.tar.gz) | 6.9 MiB | `native/linux/arm64/musl` |
+| [typos-v1.52.0-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [typos-v1.52.0-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [typos-v1.52.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/typos) 上共有 **32** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**22** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/typos) 上共有 **32** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**30** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `1.51.1` | ✅ latest |
-| Nix unstable | `1.51.1` | ✅ latest |
-| Void | `1.51.1` | ✅ latest |
+| Arch | `1.51.1` | ⚠️ outdated |
+| Nix unstable | `1.51.1` | ⚠️ outdated |
+| Void | `1.51.1` | ⚠️ outdated |
 | Alpine edge | `1.47.1` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -95,4 +95,4 @@ typos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:38:08Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T07:27:04Z._

@@ -41,49 +41,49 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.51.1` (2026-10-06)
-- **Last commit**: 2026-11-01
+- **Latest**: `v1.52.0` (2026-11-02)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 4,204 · **Forks**: 187 · **Open issues**: 584 · **Contributors**: 91
+- **Stars**: 4,205 · **Forks**: 188 · **Open issues**: 586 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 303 · **Merged PRs**: 736 · **Open PRs**: 24 · **Closed issues**: 457 · **Open issues**: 127 · **Commits**: 3049
+- **Releases**: 304 · **Merged PRs**: 737 · **Open PRs**: 25 · **Closed issues**: 458 · **Open issues**: 128 · **Commits**: 3054
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 4 | 0 | 2 | 0 | 2 |
-| last60d | 2026-09-03 | 4 | 13 | 1 | 2 | 2 | 26 |
-| 90d | 2026-08-04 | 7 | 21 | 3 | 8 | 3 | 55 |
-| last180d | 2026-05-06 | 15 | 40 | 5 | 22 | 5 | 126 |
-| 360d | 2025-11-07 | 35 | 91 | 9 | 66 | 26 | 311 |
-| last720d | 2024-11-12 | 81 | 199 | 15 | 148 | 48 | 871 |
+| 30d | 2026-10-04 | 3 | 4 | 1 | 2 | 2 | 6 |
+| last60d | 2026-09-04 | 5 | 14 | 2 | 3 | 3 | 30 |
+| 90d | 2026-08-05 | 8 | 22 | 4 | 9 | 4 | 59 |
+| last180d | 2026-05-07 | 16 | 41 | 6 | 23 | 6 | 130 |
+| 360d | 2025-11-08 | 36 | 92 | 10 | 67 | 27 | 315 |
+| last720d | 2024-11-13 | 82 | 200 | 16 | 149 | 49 | 876 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [typos-v1.51.1-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [typos-v1.51.1-aarch64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-aarch64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/arm64` |
-| [typos-v1.51.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-aarch64-unknown-linux-musl.tar.gz) | 6.9 MiB | `native/linux/arm64/musl` |
-| [typos-v1.51.1-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
-| [typos-v1.51.1-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.51.1/typos-v1.51.1-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
+| [typos-v1.52.0-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [typos-v1.52.0-aarch64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-aarch64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/arm64` |
+| [typos-v1.52.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-aarch64-unknown-linux-musl.tar.gz) | 6.9 MiB | `native/linux/arm64/musl` |
+| [typos-v1.52.0-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [typos-v1.52.0-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [typos-v1.52.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.0/typos-v1.52.0-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **32** distros on [repology.org](https://repology.org/project/typos). **9** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **32** distros on [repology.org](https://repology.org/project/typos). **1** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.51.1` | ✅ latest |
-| Nix unstable | `1.51.1` | ✅ latest |
-| Void | `1.51.1` | ✅ latest |
+| Arch | `1.51.1` | ⚠️ outdated |
+| Nix unstable | `1.51.1` | ⚠️ outdated |
+| Void | `1.51.1` | ⚠️ outdated |
 | Alpine edge | `1.47.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -95,4 +95,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:38:07Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:27:04Z._
