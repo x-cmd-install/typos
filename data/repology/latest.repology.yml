@@ -1,3 +1,16 @@
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.51.1
+  origversion: 1.51.1_1
+  status: outdated
+  summary: Source code spell checker
+  maintainers:
+    - bnyro@tutanota.com
+  licenses:
+    - Apache-2.0 OR MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: typos
@@ -173,6 +186,21 @@
     - sunpoet@freebsd.org
   categories:
     - textproc
+- repo: macports
+  srcname: devel/typos
+  binname: typos
+  visiblename: typos
+  version: 1.52.0
+  origversion: null
+  status: newest
+  summary: Source code spell checker
+  maintainers:
+    - wu21-web@github
+  licenses:
+    - MIT
+    - Apache-2
+  categories:
+    - devel
 - repo: manjaro_stable
   subrepo: extra
   srcname: typos
@@ -384,16 +412,3 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1_1
-  status: outdated
-  summary: Source code spell checker
-  maintainers:
-    - bnyro@tutanota.com
-  licenses:
-    - Apache-2.0 OR MIT
