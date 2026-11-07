@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,209 · **Forks**: 188 · **Open issues**: 586 · **Contributors**: 92
+- **Stars**: 4,210 · **Forks**: 188 · **Open issues**: 586 · **Contributors**: 92
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 4 | 0 | 1 | 1 | 7 |
-| last60d | 2026-09-07 | 5 | 15 | 1 | 4 | 2 | 31 |
-| 90d | 2026-08-08 | 8 | 22 | 3 | 10 | 2 | 60 |
-| last180d | 2026-05-10 | 15 | 41 | 5 | 24 | 5 | 131 |
-| 360d | 2025-11-11 | 36 | 93 | 9 | 67 | 26 | 316 |
-| last720d | 2024-11-16 | 82 | 201 | 15 | 150 | 48 | 878 |
+| 30d | 2026-10-08 | 1 | 4 | 0 | 1 | 1 | 7 |
+| last60d | 2026-09-08 | 5 | 15 | 1 | 4 | 2 | 31 |
+| 90d | 2026-08-09 | 8 | 22 | 3 | 9 | 2 | 60 |
+| last180d | 2026-05-11 | 15 | 41 | 5 | 24 | 5 | 131 |
+| 360d | 2025-11-12 | 36 | 92 | 9 | 66 | 26 | 316 |
+| last720d | 2024-11-17 | 82 | 201 | 15 | 150 | 48 | 878 |
 
 ## Release assets
 
@@ -77,11 +77,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **33** distros on [repology.org](https://repology.org/project/typos). **2** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **33** distros on [repology.org](https://repology.org/project/typos). **4** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.51.1` | ⚠️ outdated |
+| Arch | `1.52.0` | ✅ latest |
 | Nix unstable | `1.51.1` | ⚠️ outdated |
 | Void | `1.51.1` | ⚠️ outdated |
 | Alpine edge | `1.47.1` | ⚠️ outdated |
@@ -95,4 +95,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:13:35Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:25:24Z._
