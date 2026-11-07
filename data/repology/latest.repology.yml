@@ -63,19 +63,6 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT OR Apache-2.0
-- repo: nix_stable_25_05
-  srcname: typos
-  visiblename: typos
-  version: 1.32.0
-  origversion: null
-  status: outdated
-  summary: Source code spell checker
-  maintainers:
-    - figsoda@pm.me
-    - megoettlinger@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: typos
@@ -148,9 +135,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1
-  status: outdated
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: newest
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
@@ -158,8 +145,8 @@
   srcname: typos-git
   binname: typos-git
   visiblename: typos-git
-  version: 1.43.5.r0.g57b11c6b
-  origversion: 1.43.5.r0.g57b11c6b-1
+  version: 1.52.0.r2.g7cd4cdb2
+  origversion: 1.52.0.r2.g7cd4cdb2-1
   status: rolling
   summary: Source code spell checker
   maintainers:
@@ -206,25 +193,23 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.16.11
-  origversion: 1.16.11-1
+  version: 1.50.3
+  origversion: 1.50.3-1
   status: outdated
   summary: Source code spell checker
   licenses:
-    - MIT
-    - Apache
+    - MIT OR Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.16.12
-  origversion: 1.16.12-1
+  version: 1.51.1
+  origversion: 1.51.1-1
   status: outdated
   summary: Source code spell checker
   licenses:
-    - MIT
-    - Apache
+    - MIT OR Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: typos
@@ -253,6 +238,19 @@
   srcname: typos
   visiblename: typos
   version: 1.27.3
+  origversion: null
+  status: outdated
+  summary: Source code spell checker
+  maintainers:
+    - figsoda@pm.me
+    - megoettlinger@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: typos
+  visiblename: typos
+  version: 1.32.0
   origversion: null
   status: outdated
   summary: Source code spell checker
@@ -303,9 +301,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1
-  status: outdated
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: newest
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
