@@ -215,9 +215,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1
-  status: outdated
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: newest
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
