@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,214 · **Forks**: 188 · **Open issues**: 586 · **Contributors**: 92
+- **Stars**: 4,214 · **Forks**: 188 · **Open issues**: 588 · **Contributors**: 92
 
 ## Totals (cumulative)
 
-- **Releases**: 304 · **Merged PRs**: 738 · **Open PRs**: 24 · **Closed issues**: 459 · **Open issues**: 127 · **Commits**: 3056
+- **Releases**: 304 · **Merged PRs**: 738 · **Open PRs**: 24 · **Closed issues**: 459 · **Open issues**: 129 · **Commits**: 3056
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 4 | 0 | 1 | 1 | 7 |
-| last60d | 2026-09-09 | 5 | 15 | 1 | 4 | 2 | 27 |
-| 90d | 2026-08-10 | 8 | 22 | 3 | 8 | 2 | 55 |
-| last180d | 2026-05-12 | 15 | 41 | 5 | 24 | 5 | 126 |
-| 360d | 2025-11-13 | 35 | 91 | 9 | 61 | 26 | 309 |
-| last720d | 2024-11-18 | 82 | 201 | 15 | 150 | 48 | 878 |
+| 30d | 2026-10-10 | 1 | 4 | 0 | 1 | 3 | 7 |
+| last60d | 2026-09-10 | 5 | 14 | 1 | 4 | 4 | 27 |
+| 90d | 2026-08-11 | 8 | 22 | 3 | 8 | 4 | 55 |
+| last180d | 2026-05-13 | 15 | 41 | 5 | 24 | 7 | 126 |
+| 360d | 2025-11-14 | 34 | 91 | 9 | 61 | 28 | 309 |
+| last720d | 2024-11-19 | 82 | 201 | 15 | 150 | 49 | 877 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **33** distros on [repology.org](https://repology.org/project/typos). **5** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
+Reported by **33** distros on [repology.org](https://repology.org/project/typos). **6** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:33:22Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:04:00Z._
