@@ -1,3 +1,25 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: newest
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: newest
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: typos
@@ -196,28 +218,6 @@
   version: 1.50.3
   origversion: 1.50.3-1
   status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1
-  status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.52.0
-  origversion: 1.52.0-1
-  status: newest
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
