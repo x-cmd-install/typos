@@ -1,16 +1,15 @@
-- repo: nix_stable_25_05
-  srcname: typos
-  visiblename: typos
-  version: 1.32.0
+- repo: freebsd
+  srcname: textproc/typos
+  binname: typos
+  visiblename: textproc/typos
+  version: 1.51.1
   origversion: null
   status: outdated
   summary: Source code spell checker
   maintainers:
-    - figsoda@pm.me
-    - megoettlinger@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
+    - sunpoet@freebsd.org
+  categories:
+    - textproc
 - repo: alpine_3_22
   subrepo: community
   srcname: typos
@@ -76,19 +75,6 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT OR Apache-2.0
-- repo: nix_stable_25_11
-  srcname: typos
-  visiblename: typos
-  version: 1.39.2
-  origversion: null
-  status: outdated
-  summary: Source code spell checker
-  maintainers:
-    - megoettlinger@gmail.com
-    - contact@christophjabs.info
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: typos
@@ -187,23 +173,11 @@
   origversion: null
   status: outdated
   summary: Source code spell checker
-- repo: freebsd
-  srcname: textproc/typos
-  binname: typos
-  visiblename: textproc/typos
-  version: 1.51.1
-  origversion: null
-  status: outdated
-  summary: Source code spell checker
-  maintainers:
-    - sunpoet@freebsd.org
-  categories:
-    - textproc
 - repo: macports
   srcname: devel/typos
   binname: typos
   visiblename: typos
-  version: 1.52.0
+  version: 1.52.1
   origversion: null
   status: outdated
   summary: Source code spell checker
@@ -273,6 +247,32 @@
   licenses:
     - Apache-2.0
     - MIT
+- repo: nix_stable_25_05
+  srcname: typos
+  visiblename: typos
+  version: 1.32.0
+  origversion: null
+  status: outdated
+  summary: Source code spell checker
+  maintainers:
+    - figsoda@pm.me
+    - megoettlinger@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_11
+  srcname: typos
+  visiblename: typos
+  version: 1.39.2
+  origversion: null
+  status: outdated
+  summary: Source code spell checker
+  maintainers:
+    - megoettlinger@gmail.com
+    - contact@christophjabs.info
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: nix_stable_26_05
   srcname: typos
   visiblename: typos
@@ -311,7 +311,7 @@
   subrepo: main
   binname: typos
   visiblename: typos
-  version: 1.52.1
+  version: 1.52.2
   origversion: null
   status: newest
   licenses:
