@@ -26,11 +26,11 @@ Total: **13,162** lines of code across **133** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.2 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -41,39 +41,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.52.1` (2026-11-09)
-- **Last commit**: 2026-11-09
+- **Latest**: `v1.52.2` (2026-11-11)
+- **Last commit**: 2026-11-11
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 4,216 · **Forks**: 188 · **Open issues**: 588 · **Contributors**: 92
+- **Stars**: 4,216 · **Forks**: 188 · **Open issues**: 589 · **Contributors**: 92
 
 ## Totals (cumulative)
 
-- **Releases**: 305 · **Merged PRs**: 739 · **Open PRs**: 24 · **Closed issues**: 461 · **Open issues**: 127 · **Commits**: 3060
+- **Releases**: 306 · **Merged PRs**: 739 · **Open PRs**: 24 · **Closed issues**: 462 · **Open issues**: 127 · **Commits**: 3065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 5 | 0 | 3 | 1 | 10 |
-| last60d | 2026-09-11 | 6 | 15 | 1 | 6 | 2 | 30 |
-| 90d | 2026-08-12 | 9 | 23 | 3 | 10 | 2 | 58 |
-| last180d | 2026-05-14 | 16 | 42 | 5 | 26 | 5 | 129 |
-| 360d | 2025-11-15 | 35 | 92 | 9 | 63 | 26 | 312 |
-| last720d | 2024-11-20 | 83 | 201 | 15 | 152 | 47 | 881 |
+| 30d | 2026-10-12 | 3 | 5 | 0 | 4 | 1 | 15 |
+| last60d | 2026-09-12 | 7 | 15 | 1 | 7 | 2 | 35 |
+| 90d | 2026-08-13 | 10 | 23 | 3 | 10 | 2 | 63 |
+| last180d | 2026-05-15 | 17 | 42 | 5 | 27 | 5 | 134 |
+| 360d | 2025-11-16 | 36 | 92 | 9 | 64 | 26 | 317 |
+| last720d | 2024-11-21 | 84 | 201 | 15 | 153 | 47 | 884 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [typos-v1.52.1-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.1/typos-v1.52.1-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
-| [typos-v1.52.1-aarch64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.1/typos-v1.52.1-aarch64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/arm64` |
-| [typos-v1.52.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.1/typos-v1.52.1-aarch64-unknown-linux-musl.tar.gz) | 6.9 MiB | `native/linux/arm64/musl` |
-| [typos-v1.52.1-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.1/typos-v1.52.1-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
-| [typos-v1.52.1-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.1/typos-v1.52.1-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
-| [typos-v1.52.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.1/typos-v1.52.1-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
+| [typos-v1.52.2-aarch64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-aarch64-apple-darwin.tar.gz) | 3.2 MiB | `native/darwin/arm64` |
+| [typos-v1.52.2-aarch64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-aarch64-pc-windows-msvc.zip) | 2.9 MiB | `native/win/arm64` |
+| [typos-v1.52.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-aarch64-unknown-linux-musl.tar.gz) | 6.9 MiB | `native/linux/arm64/musl` |
+| [typos-v1.52.2-x86_64-apple-darwin.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-x86_64-apple-darwin.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [typos-v1.52.2-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
+| [typos-v1.52.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
@@ -95,4 +95,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:48:00Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:54:40Z._
