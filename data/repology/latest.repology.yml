@@ -1,36 +1,26 @@
-- repo: aur
-  srcname: typos-git
-  binname: typos-git
-  visiblename: typos-git
-  version: 1.52.0.r2.g7cd4cdb2
-  origversion: 1.52.0.r2.g7cd4cdb2-1
-  status: rolling
-  summary: Source code spell checker
-  maintainers:
-    - chocobo1@aur
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: chocolatey
-  binname: typos
-  visiblename: Typos
-  version: 1.50.2
-  origversion: null
-  status: outdated
-  summary: Source code spell checker
-- repo: aosc
-  srcname: app-utils/typos
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.44.0
-  origversion: null
+  version: 1.52.0
+  origversion: 1.52.0-1
   status: outdated
-  summary: Tool to find and correct spelling mistakes (typos) in source code
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
-- repo: arch
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.50.3
+  origversion: 1.50.3-1
+  status: outdated
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_testing
   subrepo: extra
   srcname: typos
   binname: typos
@@ -161,6 +151,49 @@
     - Apache-2.0 or MIT
   categories:
     - Development/Tools
+- repo: aosc
+  srcname: app-utils/typos
+  binname: typos
+  visiblename: typos
+  version: 1.44.0
+  origversion: null
+  status: outdated
+  summary: Tool to find and correct spelling mistakes (typos) in source code
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: arch
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: outdated
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: aur
+  srcname: typos-git
+  binname: typos-git
+  visiblename: typos-git
+  version: 1.52.0.r2.g7cd4cdb2
+  origversion: 1.52.0.r2.g7cd4cdb2-1
+  status: rolling
+  summary: Source code spell checker
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: chocolatey
+  binname: typos
+  visiblename: Typos
+  version: 1.50.2
+  origversion: null
+  status: outdated
+  summary: Source code spell checker
 - repo: freebsd
   srcname: textproc/typos
   binname: typos
@@ -188,39 +221,6 @@
     - Apache-2
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.50.3
-  origversion: 1.50.3-1
-  status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.52.0
-  origversion: 1.52.0-1
-  status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.52.0
-  origversion: 1.52.0-1
-  status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
 - repo: nix_stable_24_05
   srcname: typos
   visiblename: typos
@@ -289,7 +289,7 @@
 - repo: nix_unstable
   srcname: typos
   visiblename: typos
-  version: 1.51.1
+  version: 1.52.0
   origversion: null
   status: outdated
   summary: Source code spell checker
@@ -370,9 +370,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1.fcrawhide
-  status: outdated
+  version: 1.52.2
+  origversion: 1.52.2-1.fcrawhide
+  status: newest
   summary: Source Code Spelling Correction
   maintainers:
     - git@olivia.sh
@@ -384,9 +384,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.51.1
-  origversion: 1.51.1-1.fcrawhide
-  status: outdated
+  version: 1.52.2
+  origversion: 1.52.2-1.fcrawhide
+  status: newest
   summary: Source Code Spelling Correction
   maintainers:
     - git@olivia.sh
