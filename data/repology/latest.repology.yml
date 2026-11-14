@@ -1,34 +1,14 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: alpine_3_23
+  subrepo: community
   srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.52.0
-  origversion: 1.52.0-1
+  binname: typos-doc
+  visiblename: typos-doc
+  version: 1.45.1
+  origversion: 1.45.1-r0
   status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.50.3
-  origversion: 1.50.3-1
-  status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.52.0
-  origversion: 1.52.0-1
-  status: outdated
-  summary: Source code spell checker
+  summary: Source code spell checker (documentation)
+  maintainers:
+    - matthias@ahouansou.cz
   licenses:
     - MIT OR Apache-2.0
 - repo: alpine_3_22
@@ -66,19 +46,6 @@
   origversion: 1.45.1-r0
   status: outdated
   summary: Source code spell checker
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT OR Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: typos
-  binname: typos-doc
-  visiblename: typos-doc
-  version: 1.45.1
-  origversion: 1.45.1-r0
-  status: outdated
-  summary: Source code spell checker (documentation)
   maintainers:
     - matthias@ahouansou.cz
   licenses:
@@ -168,9 +135,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.52.0
-  origversion: 1.52.0-1
-  status: outdated
+  version: 1.52.2
+  origversion: 1.52.2-1
+  status: newest
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
@@ -198,9 +165,9 @@
   srcname: textproc/typos
   binname: typos
   visiblename: textproc/typos
-  version: 1.52.0
+  version: 1.52.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Source code spell checker
   maintainers:
     - sunpoet@freebsd.org
@@ -221,6 +188,39 @@
     - Apache-2
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.50.3
+  origversion: 1.50.3-1
+  status: outdated
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: outdated
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.52.2
+  origversion: 1.52.2-1
+  status: newest
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
 - repo: nix_stable_24_05
   srcname: typos
   visiblename: typos
