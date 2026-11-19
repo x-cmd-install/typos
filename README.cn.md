@@ -30,7 +30,7 @@ x install typos
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/23 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ x install typos
 
 ## 流行度
 
-- **Star**: 4,224 · **Fork**: 192 · **开放 issue**: 590 · **贡献者**: 92
+- **Star**: 4,227 · **Fork**: 192 · **开放 issue**: 590 · **贡献者**: 92
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install typos
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 6 | 1 | 5 | 1 | 16 |
-| last60d | 2026-09-18 | 6 | 15 | 2 | 8 | 2 | 31 |
-| 90d | 2026-08-19 | 10 | 23 | 4 | 11 | 2 | 62 |
-| last180d | 2026-05-21 | 16 | 41 | 6 | 26 | 5 | 130 |
-| 360d | 2025-11-22 | 36 | 92 | 9 | 65 | 26 | 314 |
-| last720d | 2024-11-27 | 82 | 198 | 16 | 152 | 47 | 871 |
+| 30d | 2026-10-20 | 3 | 6 | 1 | 5 | 1 | 16 |
+| last60d | 2026-09-20 | 6 | 12 | 2 | 8 | 2 | 31 |
+| 90d | 2026-08-21 | 10 | 22 | 4 | 11 | 2 | 62 |
+| last180d | 2026-05-23 | 16 | 40 | 6 | 24 | 5 | 130 |
+| 360d | 2025-11-24 | 36 | 92 | 9 | 64 | 26 | 314 |
+| last720d | 2024-11-29 | 82 | 198 | 16 | 152 | 47 | 871 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ typos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:18:15Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:18:58Z._
