@@ -1,3 +1,23 @@
+- repo: parabola
+  subrepo: extra
+  srcname: typos
+  binname: typos
+  visiblename: typos
+  version: 1.52.0
+  origversion: 1.52.0-1
+  status: outdated
+  summary: Source code spell checker
+  licenses:
+    - MIT OR Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: typos
+  visiblename: typos
+  version: 1.52.2
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0|MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: typos
@@ -50,6 +70,19 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT OR Apache-2.0
+- repo: nix_stable_24_05
+  srcname: typos
+  visiblename: typos
+  version: 1.21.0
+  origversion: null
+  status: outdated
+  summary: Source code spell checker
+  maintainers:
+    - figsoda@pm.me
+    - megoettlinger@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: typos
@@ -193,9 +226,9 @@
   srcname: typos
   binname: typos
   visiblename: typos
-  version: 1.50.3
-  origversion: 1.50.3-1
-  status: outdated
+  version: 1.52.2
+  origversion: 1.52.2-1
+  status: newest
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
@@ -221,19 +254,6 @@
   summary: Source code spell checker
   licenses:
     - MIT OR Apache-2.0
-- repo: nix_stable_24_05
-  srcname: typos
-  visiblename: typos
-  version: 1.21.0
-  origversion: null
-  status: outdated
-  summary: Source code spell checker
-  maintainers:
-    - figsoda@pm.me
-    - megoettlinger@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_stable_24_11
   srcname: typos
   visiblename: typos
@@ -296,26 +316,6 @@
   maintainers:
     - megoettlinger@gmail.com
     - contact@christophjabs.info
-- repo: parabola
-  subrepo: extra
-  srcname: typos
-  binname: typos
-  visiblename: typos
-  version: 1.52.0
-  origversion: 1.52.0-1
-  status: outdated
-  summary: Source code spell checker
-  licenses:
-    - MIT OR Apache-2.0
-- repo: scoop
-  subrepo: main
-  binname: typos
-  visiblename: typos
-  version: 1.52.2
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0|MIT
 - repo: slackbuilds
   srcname: development/typos
   visiblename: development/typos
