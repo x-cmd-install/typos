@@ -26,7 +26,7 @@ Total: **13,162** lines of code across **133** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.52.2` (2026-11-11)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-24
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 4,233 · **Forks**: 194 · **Open issues**: 592 · **Contributors**: 92
+- **Stars**: 4,233 · **Forks**: 195 · **Open issues**: 592 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 306 · **Merged PRs**: 740 · **Open PRs**: 24 · **Closed issues**: 463 · **Open issues**: 129 · **Commits**: 3066
+- **Releases**: 306 · **Merged PRs**: 741 · **Open PRs**: 24 · **Closed issues**: 463 · **Open issues**: 129 · **Commits**: 3069
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 6 | 1 | 5 | 3 | 16 |
-| last60d | 2026-09-25 | 6 | 11 | 1 | 8 | 4 | 28 |
-| 90d | 2026-08-26 | 10 | 22 | 2 | 9 | 4 | 46 |
-| last180d | 2026-05-28 | 15 | 39 | 4 | 24 | 7 | 119 |
-| 360d | 2025-11-29 | 35 | 90 | 8 | 63 | 28 | 310 |
-| last720d | 2024-12-04 | 81 | 193 | 15 | 150 | 48 | 855 |
+| 30d | 2026-10-26 | 3 | 7 | 1 | 5 | 3 | 18 |
+| last60d | 2026-09-26 | 5 | 12 | 1 | 8 | 4 | 30 |
+| 90d | 2026-08-27 | 10 | 21 | 2 | 9 | 4 | 48 |
+| last180d | 2026-05-29 | 15 | 39 | 4 | 23 | 7 | 121 |
+| 360d | 2025-11-30 | 35 | 91 | 8 | 63 | 28 | 312 |
+| last720d | 2024-12-05 | 81 | 194 | 15 | 150 | 48 | 856 |
 
 ## Release assets
 
@@ -75,17 +75,6 @@ Lowest-scoring checks:
 | [typos-v1.52.2-x86_64-pc-windows-msvc.zip](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-x86_64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/x64` |
 | [typos-v1.52.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **33** distros on [repology.org](https://repology.org/project/typos). **11** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.52.2` | ✅ latest |
-| Nix unstable | `1.52.0` | ⚠️ outdated |
-| Void | `1.51.1` | ⚠️ outdated |
-| Alpine edge | `1.47.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `typos` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +84,4 @@ Install metadata for typos lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:17:01Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:10:16Z._
